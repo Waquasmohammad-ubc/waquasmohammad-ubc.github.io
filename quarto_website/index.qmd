@@ -1,0 +1,7 @@
+---
+title: "Waquas Mohammad"
+---
+
+UBC MDSCL student
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
